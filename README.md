@@ -6,4 +6,4 @@ ACTUALIZADO
 
 ## Proyectos
 
-- [Landing-Page-Portfolio-CV](https://cesarskaiser.github.io/youtube-taller-maquetacion/portfolio-cv)
+- [Landing-Page-Portfolio-CV](https://cesarskaiser.github.io/layout-workshop-youtube/portfolio-cv)
